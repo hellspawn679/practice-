@@ -1,0 +1,9 @@
+.venv/
+.vscode/
+.vs/
+.cph/
+image remover project/dist/
+gsoc/
+pusedocode/
+env/
+test/
