@@ -2,6 +2,7 @@
 #include<math.h>
 #include<agents.h>
 #include<stdlib.h>
+#include<stack>
 
 int main() {
     float A = 0, B = 0;
