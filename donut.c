@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<math.h>
+#include<agents.h>
 #include<stdlib.h>
+
 int main() {
     float A = 0, B = 0;
     float i, j;
